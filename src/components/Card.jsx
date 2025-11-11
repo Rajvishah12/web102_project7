@@ -10,7 +10,7 @@ const Card = (props) => {
           <p>Edit</p>
         </Link>
         <h2 className="title">{props.charName}</h2>
-        <h3 className="author">{"color " + props.color}</h3>
+        <h3 className="author">{"color: " + props.color}</h3>
       </div>
       </Link>
   );
