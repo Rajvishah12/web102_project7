@@ -55,9 +55,8 @@ const App = () => {
   return ( 
 
     <div className="App">
-
       <div className="header">
-        <h1>Welcome to Crewmates</h1>
+        <h1>Crewmates</h1>
       </div>
         {element}
     </div>
